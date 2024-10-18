@@ -1,0 +1,1075 @@
+# Be sure to use tail command to get the latest n lines only.
+# 
+# i.e.
+# tail -n 100 alert.txt
+#
+# will print out the latest 100 lines. 
+
+[4m[31mThresholds reached[0m - 10-17-2024 11:54 AM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 11:54 AM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 11:54 AM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 11:56 AM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 11:59 AM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:00 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:01 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:02 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:03 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:05 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:06 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:07 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:08 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:09 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:10 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:11 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:12 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:13 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:14 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:15 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:16 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:18 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:19 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:20 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:21 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:22 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:23 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:25 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:26 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:27 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:28 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:29 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:31 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:32 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:33 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:34 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:35 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:36 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:37 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:38 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:39 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:40 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:41 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:42 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:44 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:45 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:46 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:47 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:48 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:49 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:50 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:51 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:52 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:53 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:54 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:55 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:56 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 12:57 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:11 PM[0m
+5 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:12 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:15 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:16 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:17 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:18 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:19 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:20 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:22 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:23 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:24 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:25 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:26 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:27 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:28 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:30 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:31 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:32 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:33 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:34 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:35 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:36 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:37 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:38 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:39 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:42 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:43 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:45 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:46 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:47 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:48 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:49 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:50 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:51 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:52 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:53 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:54 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:55 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:56 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:57 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 14:59 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:01 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:04 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:05 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:06 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:07 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:08 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:09 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:10 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:12 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:13 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:14 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:15 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:16 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:17 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:18 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:19 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:21 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:22 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:23 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:24 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:25 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:26 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:27 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:28 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:29 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:30 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:31 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:32 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:33 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:35 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:36 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:37 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:39 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:40 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:41 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:42 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:43 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:44 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:45 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:47 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:49 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:50 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:51 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:53 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:54 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:57 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:58 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 15:59 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:00 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:01 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:03 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:04 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:05 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:06 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:07 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:09 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:10 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:11 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:12 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:13 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:14 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:16 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:17 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:18 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:19 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:20 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:21 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:22 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:23 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:25 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:26 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:27 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:28 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:29 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:31 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:32 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:33 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:34 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:35 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:36 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:37 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:38 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:39 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:40 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:41 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:42 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:43 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:44 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:45 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:46 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:47 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:48 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:49 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:50 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:51 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:53 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:54 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:55 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:56 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:57 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 16:58 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:01 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:02 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:03 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:04 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:05 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:06 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:08 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:09 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:10 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:12 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:13 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:14 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:15 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:16 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:17 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:18 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:19 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:20 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:21 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:22 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:23 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:26 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:27 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:28 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:29 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:30 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:31 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:32 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:33 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:34 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:36 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:37 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:38 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:39 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:40 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:42 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:43 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:45 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:47 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:48 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:49 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:50 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:51 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:52 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:54 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:55 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:56 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 17:58 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:01 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:02 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:04 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:05 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:08 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:09 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:10 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:11 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:12 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:15 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:16 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:17 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:19 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:20 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:22 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:23 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:24 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:25 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:32 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:33 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:34 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:35 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:36 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:37 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:39 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:40 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:41 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:42 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:43 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:46 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:47 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:48 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:48 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:48 PM[0m
+5 fatals have been logged
+5 errors have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:49 PM[0m
+10 fatals have been logged
+14 errors have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:50 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:51 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:52 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:53 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:54 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:55 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:56 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:57 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:58 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 18:59 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:00 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:01 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:02 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:03 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:07 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:09 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:10 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:12 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:13 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:15 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:16 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:20 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:22 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:23 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:24 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:25 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:24 PM[0m
+9 fatals have been logged
+14 errors have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:25 PM[0m
+10 fatals have been logged
+13 errors have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:26 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:27 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:28 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:29 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:30 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:31 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:32 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:33 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:34 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:35 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:36 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:37 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:38 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:39 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:40 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:41 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:44 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:45 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:46 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:47 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:49 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:50 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:51 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:52 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:53 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:54 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:55 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:57 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:58 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 19:59 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 20:00 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 20:01 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 20:02 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 20:02 PM[0m
+7 fatals have been logged
+10 errors have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 20:03 PM[0m
+6 fatals have been logged
+10 errors have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 20:07 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 20:08 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 20:09 PM[0m
+2 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 20:10 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 20:11 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 20:12 PM[0m
+3 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 20:13 PM[0m
+1 fatals have been logged
+
+[4m[31mThresholds reached[0m - 10-17-2024 20:14 PM[0m
+2 fatals have been logged
+
